@@ -1,6 +1,7 @@
 # Valorant-Insta-Picker
 
 More detailed description will be added soon.
+
 Daha detaylı açıklama yakında eklenecektir.
 
 # Icons / İkonlar
