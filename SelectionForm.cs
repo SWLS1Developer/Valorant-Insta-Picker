@@ -137,9 +137,9 @@ namespace ValorantInstaPickHelper_b1
             {
                 File.Delete(path);
                 File.WriteAllText(path, sb.ToString());
-                this.Close();
-                Form frm = new cnfgr();
+                    Form frm = new cnfgr();
                 frm.Close();
+                this.Close();
             }
           
         }
