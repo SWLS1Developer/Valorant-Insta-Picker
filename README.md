@@ -1,8 +1,8 @@
 # Valorant-Insta-Picker
 
-More detailed description will be added soon.
+More detailed description and other forms source will be added soon.
 
-Daha detaylı açıklama yakında eklenecektir.
+Daha detaylı açıklama ve diğer formların kodları yakında eklenecektir.
 
 # Icons / İkonlar
 
