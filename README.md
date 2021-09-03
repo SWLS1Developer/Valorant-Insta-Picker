@@ -11,10 +11,10 @@
 > 2) Kilitle Butonunu yapılandıra tıklayın
 > 3) Çıkan menüyü kilitle butonunun ekranınızda olan konumuna getirin boyunu da kilitle butonu gibi yapın
 > 4) [Enter] 'a basın
-> 5) 2. Seçma Kutusundan ayarlamak istediğiniz karakteri seçin ve yapılandıra tıklayın
+> 5) 2ci Seçme Kutusundan ayarlamak istediğiniz karakteri seçin ve yapılandıra tıklayın
 > 6) Kilitle Butonunda yaptığınız gibi ayarlayın ve onaylayın
 > 7) Ayar menüsünü kapayıp tekrar açın
-> 8) 1.Seçim Kutusundan seçilecek karakteri seçin
+> 8) 1ci Seçim Kutusundan seçilecek karakteri seçin
 > 9) Ana Menüden bir kısayol tuşu atayın (NOT: Unutmayın programı kısayol atamadan başlatırsanız [END] tuşu ile programı devre dışı bırakabilirsiniz)
 > 10) Süreleri kendinize göre ayarlayın (Önerilen: 90MS, 20MS)
 > 11) Oyuna girin ve oyun bulununda kısayol tuşuna basarak programı etkinleştirin
