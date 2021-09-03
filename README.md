@@ -1,8 +1,24 @@
-# Valorant-Insta-Picker
+# Valorant-Insta-Picker (Türkçe/Turkish)
 
-More detailed description and other forms source will be added soon.
+#####  Bu Program Nedir ne işe yarar?
+>Bu program ile Valorant'da istediğiniz karakteri anında seçebilirsiniz.
 
-Daha detaylı açıklama ve diğer formların kodları yakında eklenecektir.
+##### Nasıl Çalışır?
+>Program sizin önceden seçmiş olduğunuz "Karakter" ve "Kilitleme Butonuna" çok kıs aralıklarla basarak ortalama bir insan refleks hızından daha hızlı bir şekilde karakteri seçmenize olanak sağlıyor.
+
+##### Nasıl Kullanılır?
+> 1) Ayarlar simgesine tıklayın
+> 2) Kilitle Butonunu yapılandıra tıklayın
+> 3) Çıkan menüyü kilitle butonunun ekranınızda olan konumuna getirin boyunu da kilitle butonu gibi yapın
+> 4) [Enter] 'a basın
+> 5) 2. Seçma Kutusundan ayarlamak istediğiniz karakteri seçin ve yapılandıra tıklayın
+> 6) Kilitle Butonunda yaptığınız gibi ayarlayın ve onaylayın
+> 7) Ayar menüsünü kapayıp tekrar açın
+> 8) 1.Seçim Kutusundan seçilecek karakteri seçin
+> 9) Ana Menüden bir kısayol tuşu atayın (NOT: Unutmayın programı kısayol atamadan başlatırsanız [END] tuşu ile programı devre dışı bırakabilirsiniz)
+> 10) Süreleri kendinize göre ayarlayın (Önerilen: 90MS, 20MS)
+> 11) Oyuna girin ve oyun bulununda kısayol tuşuna basarak programı etkinleştirin
+>  ARTIK HAZIRSINIZ EN HIZLI ŞEKİLDE KARAKTERİ SİZ SEÇEBİLİRSİNİZ.
 
 # Icons / İkonlar
 
