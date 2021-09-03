@@ -4,7 +4,7 @@
 >Bu program ile Valorant'da istediğiniz karakteri anında seçebilirsiniz.
 
 ##### Nasıl Çalışır?
->Program sizin önceden seçmiş olduğunuz "Karakter" ve "Kilitleme Butonuna" çok kıs aralıklarla basarak ortalama bir insan refleks hızından daha hızlı bir şekilde karakteri seçmenize olanak sağlıyor.
+>Program sizin önceden seçmiş olduğunuz "Karakter" ve "Kilitleme Butonuna" çok kısa aralıklarla basarak ortalama bir insan refleks hızından daha hızlı bir şekilde karakteri seçmenize olanak sağlıyor.
 
 ##### Nasıl Kullanılır?
 > 1) Ayarlar simgesine tıklayın
