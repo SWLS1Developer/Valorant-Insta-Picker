@@ -70,48 +70,7 @@ if (isEng != true)
 
         }
        
-       public static void DrawSelectionRectangle(Graphics source, RectangleF rectangle, Pen pen, string text = null, Font textFont = null, Brush textBrush = null)
-        {
-            PointF Point = new PointF(rectangle.X, rectangle.Y);
-            Size size = new Size((int)rectangle.Width, (int)rectangle.Height);
-            Graphics e = source;
-            PointF up_left = new PointF(Point.X, Point.Y);
-            PointF up_right = new PointF(size.Width + Point.X, Point.Y);
-            PointF down_right = new PointF(size.Width + Point.X, size.Height + Point.Y);
-            PointF down_left = new PointF(Point.X, size.Height + Point.Y);
-
-            Single xL = size.Width / 3;
-            Single yL = size.Height / 3;
-
-            Pen p = pen;
-
-            List<PointF[]> PFaList = new List<PointF[]>();
-
-            PointF[] pA1 = { new PointF(up_left.X, up_left.Y + yL), new PointF(up_left.X, up_left.Y), new PointF(up_left.X + xL, up_left.Y) };
-            PointF[] pA2 = { new PointF(up_right.X + xL, up_right.Y + yL), new PointF(up_right.X + xL, up_right.Y), new PointF(up_right.X, up_right.Y) };
-
-            PointF[] pA3 = { new PointF(down_right.X, down_right.Y + yL), new PointF(down_right.X + xL, down_right.Y + yL), new PointF(down_right.X + xL, down_right.Y) };
-            PointF[] pA4 = { new PointF(down_left.X, down_left.Y), new PointF(down_left.X, down_left.Y + yL), new PointF(down_left.X + xL, down_left.Y + yL) };
-
-
-            PFaList.Add(pA1);
-            PFaList.Add(pA2);
-            PFaList.Add(pA3);
-            PFaList.Add(pA4);
-
-            for (int i = 0; i <= PFaList.Count - 1; i++)
-            {
-                e.DrawLines(p, PFaList[i]);
-            }
-
-            if (!string.IsNullOrEmpty(text) && textFont != null)
-            {
-                SizeF StringSize = (SizeF)(e.MeasureString(text, textFont).ToSize());
-                PointF pnt = new PointF(up_left.X + ((up_right.X - up_left.X) / 2), up_left.Y + 4);
-                float xVal = StringSize.Width <= 30 ? pnt.X - 5 : pnt.X - StringSize.Width / 3.3F;
-                e.DrawString(text, textFont, textBrush == null ? pen.Brush : textBrush, new PointF(xVal, pnt.Y - StringSize.Height - (float)Math.PI * 3));
-            }
-        }
+      
 
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
