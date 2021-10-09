@@ -17,7 +17,7 @@
 > 8) 1ci Seçim Kutusundan seçilecek karakteri seçin
 > 9) Ana Menüden bir kısayol tuşu atayın (NOT: Unutmayın programı kısayol atamadan başlatırsanız [END] tuşu ile programı devre dışı bırakabilirsiniz)
 > 10) Süreleri kendinize göre ayarlayın (Önerilen: 90MS, 20MS)
-> 11) Oyuna girin ve oyun bulununda kısayol tuşuna basarak programı etkinleştirin
+> 11) Oyuna girin ve oyun bulunduğunda kısayol tuşuna basarak programı etkinleştirin
 
 
 >  ARTIK HAZIRSINIZ EN HIZLI ŞEKİLDE KARAKTERİ SİZ SEÇEBİLİRSİNİZ.
